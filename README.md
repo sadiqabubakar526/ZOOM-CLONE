@@ -2,7 +2,8 @@
 
 # Node JS Zoom Clone
 
-This is a simple web video chat app with all the feature of a standard chat app like zoom or google meet.
+This is a simple web video chat app with all the feature of a standard chat app like zoom or google meet.<br>
+<img src="https://github.com/sadiqabubakar526/ZOOM-CLONE/blob/master/img/meet.png?raw=true" width="100%">
 
 ## I have named it LEGENDS MEET
 It is live [https://cutt.ly/fn4a5k5]
