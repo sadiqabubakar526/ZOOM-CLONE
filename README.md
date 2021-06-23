@@ -4,8 +4,8 @@
 
 This is a simple web video chat app with all the feature of a standard chat app like zoom or google meet.
 
-## I have named it hero meet
-It is live [https://supermeet.herokuapp.com/](https://supermeet.herokuapp.com/)
+## I have named it LEGENDS MEET
+It is live [https://cutt.ly/fn4a5k5]
 
 ## Features
 - realtime video chat
